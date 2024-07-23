@@ -23,18 +23,7 @@ To run this application locally, you must have Node.js and npm installed on your
 ### Usage
 To use the password generator, simply adjust the length and requirements of your desired password using the input fields and checkboxes. Then, click the "Generate Password" button to create a new password. You can copy the generated password to your clipboard by clicking the "Copy" button.
 
-<!--
-1. Open the app in your browser.
-2. Choose your desired password length and character types.
-3. Click the "Generate Password" button.
-4. Your generated password will appear in the password field and be copied to the clipboard automatically.
--->
 
-### Demo
-A live demo of this project is available at https://asaggse.github.io/password-generator-react/
 
-### Contributing
-If you have any suggestions or issues, feel free to open a pull request or issue on the GitHub repository.
 
-### License
-This project is licensed under the MIT License.
+
