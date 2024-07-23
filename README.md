@@ -18,7 +18,7 @@ To run this application locally, you must have Node.js and npm installed on your
 2. Open a terminal window and navigate to the project directory.
 3. Run `npm install` to install the necessary dependencies.
 4. Run `npm start` to start the development server.
-5. Open your web browser and go to `http://localhost:3000` to view the application.
+
 
 ### Usage
 To use the password generator, simply adjust the length and requirements of your desired password using the input fields and checkboxes. Then, click the "Generate Password" button to create a new password. You can copy the generated password to your clipboard by clicking the "Copy" button.
